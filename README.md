@@ -5,4 +5,4 @@
 </p>
 
 For more information look at 
-<a href="https://marlinfw.org/">
+<a href="https://marlinfw.org/">The Marlin project that this firmware is based on</a>
