@@ -4,4 +4,5 @@
     <a href="/LICENSE"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"></a>
 </p>
 
-For more information look at <a href="https://marlinfw.org/">
+For more information look at 
+<a href="https://marlinfw.org/">
